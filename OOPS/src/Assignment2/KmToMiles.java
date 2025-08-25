@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package Assignment2;
 
+import java.util.Scanner;
 public class KmToMiles {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
