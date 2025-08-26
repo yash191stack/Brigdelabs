@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TriangleArea {
+class TriangleArea {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter base in inches: ");
