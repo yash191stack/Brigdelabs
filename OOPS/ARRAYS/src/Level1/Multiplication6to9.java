@@ -1,4 +1,6 @@
-public class Multiplication6to9 {
+package Level1;
+
+class Multiplication6to9 {
     public static void main(String[] args) {
         for (int num = 6; num <= 9; num++) {
             System.out.println("\nMultiplication Table of " + num + ":");
