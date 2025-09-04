@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAYS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Level 1/Level 1.iml" filepath="$PROJECT_DIR$/Level 1/Level 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Level1/Level1.iml" filepath="$PROJECT_DIR$/Strings/Level1/Level1.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS.iml" filepath="$PROJECT_DIR$/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
     </modules>
   </component>
 </project>
