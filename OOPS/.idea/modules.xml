@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" filepath="$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/CW/CW.iml" filepath="$PROJECT_DIR$/CW/CW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class and Object/Class and Object.iml" filepath="$PROJECT_DIR$/Class and Object/Class and Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassWork/ClassWork.iml" filepath="$PROJECT_DIR$/ClassWork/ClassWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/Level 1/Level 1.iml" filepath="$PROJECT_DIR$/Level 1/Level 1.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOPS.iml" filepath="$PROJECT_DIR$/OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPSPrinciple/OOPSPrinciple.iml" filepath="$PROJECT_DIR$/OOPSPrinciple/OOPSPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Elements/Programming Elements.iml" filepath="$PROJECT_DIR$/Programming Elements/Programming Elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Wrapper/Wrapper.iml" filepath="$PROJECT_DIR$/Wrapper/Wrapper.iml" />
     </modules>
